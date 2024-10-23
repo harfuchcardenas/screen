@@ -1,4 +1,6 @@
 #include <Arduino.h>
+#include <lvgl.h>
+#include <lv_conf.h>
 
 // put function declarations here:
 int myFunction(int, int);
@@ -6,6 +8,8 @@ int myFunction(int, int);
 void setup() {
   // put your setup code here, to run once:
   int result = myFunction(2, 3);
+  lv_tick_inc(10);
+  lv_init();
 }
 
 void loop() {
