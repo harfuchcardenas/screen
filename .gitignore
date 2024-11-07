@@ -1,1 +1,3 @@
 .pio/
+include/TFT_eSPI/
+include/lvgl_esp32_drivers/
