@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <lvgl.h>
-#include <lv_conf.h>
-#include <TFT_eSPI.h>
+#include <../lv_conf.h>
+#include "TFT_eSPI/TFT_eSPI.h"
 #include <examples/get_started/lv_example_get_started.h>
 
 // put function declarations here:
