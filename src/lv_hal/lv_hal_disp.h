@@ -37,7 +37,7 @@ extern "C" {
 /**********************
  *      TYPEDEFS
  **********************/
-
+typedef int32_t lv_coord_t;
 struct _disp_t;
 struct _disp_drv_t;
 

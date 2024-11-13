@@ -6,6 +6,3 @@
 	path = include/TFT_eSPI
 	url = git@github.com:lvgl/lvgl_esp32_drivers.git  
 
-[submodule "include/git@github.com:Bodmer/TFT_eSPI.git"]
-	path = include/TFT_eSPI
-    url = git@github.com:Bodmer/TFT_eSPI.git
