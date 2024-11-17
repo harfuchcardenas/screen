@@ -1,7 +1,7 @@
+#include "TFT_eSPI/TFT_eSPI.h"/home/aharfuch/Dokumente/PlatformIO/Projects/screen/lib/lvgl/src/drivers/display/tft_espi/lv_tft_espi.h
 #include <Arduino.h>
 #include <lvgl.h>
 #include <../lv_conf.h>
-#include "TFT_eSPI/TFT_eSPI.h"
 #include <examples/get_started/lv_example_get_started.h>
 
 // put function declarations here:
